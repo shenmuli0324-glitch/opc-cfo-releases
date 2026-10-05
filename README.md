@@ -4,7 +4,7 @@
 
 OPC CFO 为独立创业者与一人公司提供本地财务工作台，把个人与公司往来、项目、预算、费用和经营分析放在同一条工作流程中。
 
-[官网](https://shenmuli.com) · [下载安装包](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/tag/v0.4.13) · [历史版本](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases) · [新版营销海报](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/download/v0.4.13/OPC-CFO-0.4.13-poster.png)
+[官网](https://shenmuli.com) · [下载安装包](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/tag/v0.4.14) · [历史版本](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases) · [产品海报](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/download/v0.4.13/OPC-CFO-0.4.13-poster.png)
 
 > 本仓库仅保存产品说明、公开发布元数据及安装包，不包含 OPC CFO 源代码。
 
@@ -21,7 +21,7 @@ OPC CFO 为独立创业者与一人公司提供本地财务工作台，把个人
 
 ## PRO 与 CFO-PRO
 
-PRO 提供税务资料整理、员工档案与工资关联，以及已配置云服务的加密云备份。会员每月赠送的 AI 积分、产品价格和权益以应用购买页的实时配置为准。
+PRO 提供税务资料整理、员工档案与工资关联，以及已配置云服务的加密云备份。官网与应用统一读取服务端产品目录，管理员调整价格或每月赠送积分后会自动刷新；订单金额以创建时的产品快照为准。产品价格和权益以购买页的实时配置为准。
 
 CFO-PRO 是可选的官方财务模型服务，支持查看积分与购买用量套餐。也可配置自己的 DeepSeek 或 OpenAI 兼容模型。CFO 助手、AI 记账和 AI 工作台使用统一的模型配置。
 
