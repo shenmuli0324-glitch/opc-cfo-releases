@@ -4,7 +4,7 @@
 
 OPC CFO 为独立创业者与一人公司提供本地财务工作台，把个人与公司往来、项目、预算、费用和经营分析放在同一条工作流程中。
 
-[官网](https://shenmuli.com) · [下载安装包](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/tag/v0.4.14) · [历史版本](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases) · [产品海报](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/download/v0.4.13/OPC-CFO-0.4.13-poster.png)
+[官网](https://shenmuli.com) · [下载安装包](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/tag/v0.4.17) · [历史版本](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases) · [产品海报](https://github.com/shenmuli0324-glitch/opc-cfo-releases/releases/download/v0.4.13/OPC-CFO-0.4.13-poster.png)
 
 > 本仓库仅保存产品说明、公开发布元数据及安装包，不包含 OPC CFO 源代码。
 
@@ -17,6 +17,7 @@ OPC CFO 为独立创业者与一人公司提供本地财务工作台，把个人
 - 付款申请、审批、付款记录、发票、凭证和对账的关联流程。
 - 个人与公司往来：工资、报销、个人代付、股东投入及股东借款。
 - 营业执照、发票和回单的本地 OCR；识别结果经确认后入账。
+- 工商登记与股东高管资料自动补全：按统一社会信用代码查询，冲突需确认；空值与真实零值分开显示。Free 首次成功补全，PRO 每家公司每日可更新，重复查询复用缓存。
 - 本地 SQLite 账本及本地备份，账号数据与模型配置相互隔离。
 
 ## PRO 与 CFO-PRO
